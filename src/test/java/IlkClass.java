@@ -19,6 +19,7 @@ public class IlkClass {
         System.out.println("deneme 4");
         System.out.println("deneme 5");
         System.out.println("deneme6");
+        System.out.println("deneme7");
 
     }
 }
