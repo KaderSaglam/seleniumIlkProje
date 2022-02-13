@@ -11,6 +11,9 @@ public class IlkClass {
         WebDriver driver= new ChromeDriver();
         driver.get("https://www.amazon.com");
 //deneme
+//deneme
+//deneme
+        System.out.println("deneme");
 
     }
 }
